@@ -113,6 +113,7 @@ class _newNoteState extends State<newNote> {
                                   Container(
                                     child: IconButton(
                                       icon: Icon(Icons.attach_file, color:  Colors.grey,),
+                                      onPressed: (){},
                                     ),
                                   )
                                 ],

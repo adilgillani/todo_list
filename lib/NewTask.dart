@@ -157,6 +157,7 @@ class _newTaskState extends State<newTask> {
                                 Container(
                                   child: IconButton(
                                     icon: Icon(Icons.attach_file, color:  Colors.grey,),
+                                    onPressed: (){},
                                   ),
                                 )
                               ],

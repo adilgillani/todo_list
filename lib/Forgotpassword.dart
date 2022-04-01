@@ -29,6 +29,7 @@ class _forgotPasswordState extends State<forgotPassword> {
             Icons.arrow_back,
             color: Colors.black,
           ),
+          onPressed: (){},
         ),
       ),
       body: Container(
